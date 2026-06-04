@@ -46,13 +46,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="spark logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=airflow" height="40" alt="airflow logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="airflow logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="s3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="40" alt="hadoop logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg" height="40" alt="hadoop logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/vertica/000000" height="40" alt="vertica logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vertica/vertica-original.svg" height="40" alt="vertica logo" />
 </div>
 
 ###
