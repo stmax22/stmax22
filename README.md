@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="40" alt="hadoop logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vertica.svg" height="40" alt="vertica logo" />
+  <img src="https://img.shields.io/badge/Vertica-000000?style=flat&logo=vertica&logoColor=white" height="40" alt="vertica logo" />
 </div>
 
 ###
