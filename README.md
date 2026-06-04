@@ -24,7 +24,7 @@
 </div>
 
 ###
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  Обо мне:</h3>
 
 ###
 <p align="left">Я Data Engineer.</p>
@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="s3 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=hadoop" height="40" alt="hadoop logo" />
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="40" alt="hadoop logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vertica/000000" height="40" alt="vertica logo" />
 </div>
